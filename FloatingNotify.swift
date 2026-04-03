@@ -98,7 +98,7 @@ window.level = .floating
 window.isOpaque = false
 window.backgroundColor = .clear
 window.hasShadow = true
-window.ignoresMouseEvents = true
+window.isMovableByWindowBackground = true
 window.collectionBehavior = [.canJoinAllSpaces, .stationary]
 
 let containerView = NSView(frame: NSRect(x: 0, y: 0, width: windowSize, height: windowSize))
