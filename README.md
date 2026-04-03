@@ -1,5 +1,7 @@
 # Claude Code 浮窗通知插件
 
+> **仅适用于 macOS**，依赖 Swift 和 Cocoa 框架实现原生浮窗。
+
 macOS 上为 Claude Code 添加右上角置顶浮窗通知，支持 GIF 动画和静态图片。
 
 ## 功能
